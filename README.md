@@ -171,6 +171,8 @@ A Spring Boot application that provides APIs to manage a hierarchical tree struc
     - Add custom application metrics using Actuator and Micrometer.
 
 #
-**Date**: January 24, 2025
+Date: December 26, 2024
 
-**Author**: [Prachi Shah](https://pcisha.my.canva.site/)
+Author: Prachi Shah @ https://pcisha.my.canva.site/
+
+P.S. The default copyright laws apply.
